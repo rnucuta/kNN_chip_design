@@ -1,0 +1,1 @@
+/opt/siemens/Questa/2024.2/questasim/linux_x86_64/VisualizerRls/bin/viscom -nolock -quiet -jmem_size 33030144 work.tb_dist_sort -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt2 -id 1-005056903179-675a30d7-abc95-738c2 +__design_bin_path+/home/rn347/asap7_rundir/finalproj/synthesis_tb +__betafsm
